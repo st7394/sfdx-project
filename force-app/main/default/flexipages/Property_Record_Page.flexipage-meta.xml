@@ -159,12 +159,7 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                </componentInstanceProperties>
-            </componentInstance>
-        </itemInstances>
+        
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
